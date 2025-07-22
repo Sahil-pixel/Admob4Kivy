@@ -116,9 +116,13 @@ class TestIDs:
 ## 📷 Screenshot
 
 Here's what the app looks like on Android:
+<p align="center">
+  <img src="s0.jpg" width="200" style="display:inline-block; margin-right:10px;">
+  <img src="s1.jpg" width="200" style="display:inline-block; margin-right:10px;">
+  <img src="s2.jpg" width="200" style="display:inline-block;">
+</p>
 
-![Admob4Kivy screenshot](screenshot.png)
-
+[![Watch the video]](https://youtube.com/shorts/OCOthpdm24s?si=56coR5SZQ2SYFX1N)
 
 ## Example Kivy App
 
